@@ -1,4 +1,3 @@
-//package MyBank;
 
 import java.io.Serializable;
 
